@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Data files (büyük dosyalar)
+data/*.json
+data/*.pkl
+data/*.index
+src/data/*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# OS
+.DS_Store
