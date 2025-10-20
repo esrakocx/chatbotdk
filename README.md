@@ -315,7 +315,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 - GitHub: [@esrakocx](https://github.com/esrakocx)
 - LinkedIn: [Esra Koç](https://linkedin.com/in/esrakocx)
-- Email: esra@example.com
+- Email: eocesra@gmail.com
 
 ## 🙏 Teşekkürler
 
