@@ -9,7 +9,8 @@ Türk Dil Kurumu (TDK) Sözlük verilerini kullanarak Türkçe kelimelerin anlam
 
 ## 🌐 Demo
 
-🔗 **Web Arayüzü:** [Demo Linki Buraya Gelecek](#) *(Deployment sonrası eklenecek)*
+- chatbotdk/tdk-chatbot klasörü deployment için oluşturuldu:
+🔗 **Web Arayüzü:** [https://huggingface.co/spaces/esrakoc/tdk-chatbot](#) *(Deployment (Hugging Face - Docker))*
 
 ## 🎯 Proje Amacı
 
@@ -228,6 +229,8 @@ tdk-chatbot-rag/
 │   ├── embeddings.pkl             # BERT embeddings
 │   ├── vector_store.index         # FAISS index
 │   └── vector_store.pkl           # Doküman metadata
+│
+├── tdk-chatbot/                   # Hugging Face deployment klasör
 │
 ├── src/                           # Ana kaynak kodlar
 │   ├── __init__.py
