@@ -10,6 +10,7 @@ Türk Dil Kurumu (TDK) Sözlük verilerini kullanarak Türkçe kelimelerin anlam
 ## 🌐 Demo
 
 - chatbotdk/tdk-chatbot klasörü deployment için oluşturuldu:
+
 🔗 **Web Arayüzü:** [https://huggingface.co/spaces/esrakoc/tdk-chatbot](#) *(Deployment (Hugging Face - Docker))*
 
 ## 🎯 Proje Amacı
