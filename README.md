@@ -11,7 +11,7 @@ Türk Dil Kurumu (TDK) Sözlük verilerini kullanarak Türkçe kelimelerin anlam
 
 - chatbotdk/tdk-chatbot klasörü deployment için oluşturuldu:
 
-🔗 **Web Arayüzü:** [https://huggingface.co/spaces/esrakoc/tdk-chatbot](#) *(Deployment (Hugging Face - Docker))*
+🔗 **Web Arayüzü:** [https://huggingface.co/spaces/esrakoc/tdk-chatbot](https://huggingface.co/spaces/esrakoc/tdk-chatbot)
 
 ## 🎯 Proje Amacı
 
