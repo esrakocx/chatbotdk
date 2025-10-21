@@ -9,10 +9,11 @@ Türk Dil Kurumu (TDK) Sözlük verilerini kullanarak Türkçe kelimelerin anlam
 
 ## 🌐 Demo
 
-- chatbotdk/tdk-chatbot klasörü deployment için oluşturuldu:
-- **Projenin çalışır halini görmek için aşağıdaki linki ziyaret edin:**
+ ### Projenin çalışır halini görmek için aşağıdaki linki ziyaret edin:
 
 🔗 **Web Arayüzü:** [https://huggingface.co/spaces/esrakoc/tdk-chatbot](https://huggingface.co/spaces/esrakoc/tdk-chatbot)
+
+- chatbotdk/tdk-chatbot klasörü deployment için oluşturuldu:
 
 ## 🎯 Proje Amacı
 
